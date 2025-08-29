@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskManger
 
 A simple Task Manager built with React to add, edit, complete, and delete tasks.  
@@ -120,3 +121,6 @@ Open a Pull Request
 This project is open source under the MIT License (or add your preferred license).
 
 
+=======
+# TaskManger
+>>>>>>> 2aaf428ba3b805da8e9c5fc0281750895aeb353b
